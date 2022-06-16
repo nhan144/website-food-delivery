@@ -5,7 +5,7 @@
 - Client website
 - Store manager website
 ## Front-end: 
-- [Template client website] (https://themewagon.com/themes/free-bootstrap-4-html5-responsive-ecommerce-website-template-ogani/)
+- [Template client website](https://themewagon.com/themes/free-bootstrap-4-html5-responsive-ecommerce-website-template-ogani/)
 - [Template store manager website](https://www.bootstrapdash.com/product/corona-free/)
 ## Back-end:
 - Back-end write by me and the data is crawl from [foody.vn](https://www.foody.vn/ha-noi)
