@@ -9,6 +9,20 @@
 - [Template store manager website](https://www.bootstrapdash.com/product/corona-free/)
 ## Back-end:
 - Back-end write by me and the data is crawl from [foody.vn](https://www.foody.vn/ha-noi)
+## Client website:
+- Add favorite.
+- Search food.
+- Make order.
+- Checkout.
+- Notification for order cancel/complete.
+- Rating quality of food.
+## Store manager website:
+- Check total/daily income.
+- Best rate food.
+- Notification for new order.
+- Manager order.
+- Manager food list.
+- Check for bills.
 ## Setup
 - Clone it to your pc.
 - Have composer on your pc or install it.
